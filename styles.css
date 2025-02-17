@@ -1,0 +1,61 @@
+body {
+  margin: auto;
+}
+
+.container-fluid {
+  width: 80%;
+  margin-top: 30px;
+}
+
+.formHeader {
+  border: 1px solid lightgray;
+  border-bottom: none;
+  background-color: rgb(235, 235, 235);
+  font-size: 1.6em;
+  font-weight: 600;
+  padding: 10px;
+}
+
+.formContent {
+  border: 1px solid lightgray;
+  padding: 10px;
+}
+
+.formFooter {
+  border: 1px solid lightgray;
+  border-top: none;
+  background-color: rgb(235, 235, 235);
+  font-size: 1.6em;
+  font-weight: 600;
+  padding: 10px;
+}
+.formFooter button {
+  margin-right: 5px;
+}
+
+.row {
+  /* border: 1px solid rgb(211, 211, 211);*/
+}
+
+.col,
+.col-2,
+.col-3,
+.col-4,
+.col-6,
+.col-12 {
+  /*border: 1px solid rgb(255, 230, 0);*/
+}
+
+.cardAccepted {
+  background-color: #6c757d;
+  color: white;
+  border-radius: 5px;
+  padding: 2px;
+}
+label {
+  padding: 2px;
+}
+.comments {
+  font-size: 14px;
+  color: gray;
+}
